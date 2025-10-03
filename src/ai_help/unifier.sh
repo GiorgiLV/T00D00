@@ -1,7 +1,7 @@
 #!/bin/bash
 
 FILES=key/*
-KEY=0
+KEY=1
 
 for file in $FILES
 do
